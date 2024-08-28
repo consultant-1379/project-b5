@@ -1,0 +1,47 @@
+/* customTable.css */
+
+.custom-table__cell_red {
+  color: var(--red);
+  background-color: var(--white);
+  font-weight: 900;
+}
+
+.a-circle {
+  background: green;
+  color: rgb(0, 0, 0);
+  padding: 5px 10px;
+  border-radius: 50%;
+  font-size: 20px;
+}
+
+.b-circle {
+  background: lightgreen;
+  color: rgb(0, 0, 0);
+  padding: 5px 10px;
+  border-radius: 50%;
+  font-size: 20px;
+}
+
+.c-circle {
+  background: yellow;
+  color: rgb(0, 0, 0);
+  padding: 5px 10px;
+  border-radius: 50%;
+  font-size: 20px;
+}
+
+.d-circle {
+  background: orange;
+  color: rgb(0, 0, 0);
+  padding: 5px 10px;
+  border-radius: 50%;
+  font-size: 20px;
+}
+
+.e-circle {
+  background: red;
+  color: rgb(0, 0, 0);
+  padding: 5px 10px;
+  border-radius: 50%;
+  font-size: 20px;
+}

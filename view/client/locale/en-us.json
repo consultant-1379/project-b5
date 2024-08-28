@@ -1,0 +1,8 @@
+{
+  "CONTAINER_TITLE": "SonarQube Vulnerability Dashboard",
+  "CONTAINER_TITLE_SHORT": "SonarQube Vulnerability Dashboard",
+  "MENU_TITLE": "Menu",
+  "MENU": {
+    "APP_1": "OWASP Report"
+  }
+}

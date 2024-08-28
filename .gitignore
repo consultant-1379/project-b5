@@ -1,0 +1,6 @@
+#IntelliJ
+.idea
+#model/mongo/mongo.iml
+model/mongo/target
+out
+controller/springApp/src/main/java/com/example/demo
